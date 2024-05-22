@@ -20,3 +20,12 @@ Follow these steps to run the code:
 3. Execute the script by running the following command in your terminal:
    ```bash
    python3 script.py /path/to/your/dataset
+
+## Results
+
+The logs of the testing process can be seen via logs_for_fakes.txt and logs_for_reals.txt files.
+
+Accuracy on DeepFakes: 0.58 (29 true, 21 false)
+Accuracy on Real Images: 0.62 (31 true, 19 false)
+Accuracy in Total: 0.60 (60 true, 40 false)
+
