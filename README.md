@@ -4,3 +4,11 @@ BLIP is a VLP (Vision-Language Pre-training) framework that excels in both visio
 # Dataset 
 
 The dataset consists of 300 random examples from the FF++ dataset. This included 150 Deepfake examples and 150 Real examples, selected from 50 videos. Each video contributed 3 frames to the dataset. The dataset can be accessed from the link: https://www.kaggle.com/datasets/emirhanbilgic/ff-blip-dataset 
+
+# Running the Code
+
+To run the code:
+1- Clone the repo, 
+2- Download the dataset.
+3- Run "python3 script.py /path/to/your/dataset"
+
