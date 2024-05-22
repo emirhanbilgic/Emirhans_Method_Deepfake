@@ -1,14 +1,22 @@
-# Emirhans_Method_Deepfake
-BLIP is a VLP (Vision-Language Pre-training) framework that excels in both vision-language understanding and generation tasks using a multimodal mixture of encoder-decoder model and a novel captioning and filtering method for handling noisy data. In this project, we will try to use BLIP in deepfake detection
+# Emirhan's Method for Deepfake Detection
 
-# Dataset 
+## Introduction
+BLIP is a Vision-Language Pre-training (VLP) framework known for its proficiency in both vision-language understanding and generation tasks. It utilizes a multimodal mixture of encoder-decoder models, along with a novel captioning and filtering method for managing noisy data. In this project, we employ BLIP to detect deepfake content effectively.
 
-The dataset consists of 300 random examples from the FF++ dataset. This included 150 Deepfake examples and 150 Real examples, selected from 50 videos. Each video contributed 3 frames to the dataset. The dataset can be accessed from the link: https://www.kaggle.com/datasets/emirhanbilgic/ff-blip-dataset 
+## Dataset
 
-# Running the Code
+The dataset utilized in this project includes 300 randomly selected examples from the FF++ dataset. It comprises:
+- 150 Deepfake examples
+- 150 Real examples
 
-To run the code:
-1- Clone the repo, 
-2- Download the dataset.
-3- Run "python3 script.py /path/to/your/dataset"
+These examples are selected from 50 different videos, with each video contributing 3 frames to the dataset. You can access the dataset at [this Kaggle link](https://www.kaggle.com/datasets/emirhanbilgic/ff-blip-dataset).
 
+## Running the Code
+
+Follow these steps to run the code:
+
+1. Clone the repository.
+2. Download the dataset from the provided link.
+3. Execute the script by running the following command in your terminal:
+   ```bash
+   python3 script.py /path/to/your/dataset
