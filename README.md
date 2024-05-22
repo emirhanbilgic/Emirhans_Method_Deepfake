@@ -25,7 +25,13 @@ Follow these steps to run the code:
 
 The logs of the testing process can be seen via logs_for_fakes.txt and logs_for_reals.txt files.
 
-Accuracy on DeepFakes: 0.58 (29 true, 21 false)
-Accuracy on Real Images: 0.62 (31 true, 19 false)
-Accuracy in Total: 0.60 (60 true, 40 false)
+- **Accuracy on DeepFakes:** 58%
+  - True Positives: 29
+  - False Positives: 21
+- **Accuracy on Real Images:** 62%
+  - True Negatives: 31
+  - False Negatives: 19
+- **Overall Accuracy:** 60%
+  - Total Correct: 60
+  - Total Incorrect: 40
 
