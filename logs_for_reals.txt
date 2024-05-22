@@ -1,0 +1,400 @@
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/014
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/014/frame_215.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/014/frame_315.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/014/frame_603.png
+Prediction result: yes
+Number of fakes detected in the folder: 2
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/040
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/040/frame_468.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/040/frame_464.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/040/frame_437.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/025
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/025/frame_643.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/025/frame_515.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/025/frame_601.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/024
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/024/frame_106.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/024/frame_171.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/024/frame_54.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/031
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/031/frame_398.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/031/frame_466.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/031/frame_411.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/036
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/036/frame_48.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/036/frame_175.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/036/frame_55.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/048
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/048/frame_146.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/048/frame_156.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/048/frame_221.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/046
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/046/frame_331.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/046/frame_107.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/046/frame_211.png
+Prediction result: yes
+Number of fakes detected in the folder: 3
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/035
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/035/frame_26.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/035/frame_147.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/035/frame_124.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/033
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/033/frame_602.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/033/frame_289.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/033/frame_247.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/003
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/003/frame_52.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/003/frame_231.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/003/frame_34.png
+Prediction result: yes
+Number of fakes detected in the folder: 3
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/049
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/049/frame_250.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/049/frame_13.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/049/frame_108.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/029
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/029/frame_270.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/029/frame_309.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/029/frame_110.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/022
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/022/frame_313.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/022/frame_8.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/022/frame_129.png
+Prediction result: yes
+Number of fakes detected in the folder: 3
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/034
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/034/frame_113.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/034/frame_346.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/034/frame_352.png
+Prediction result: no
+Number of fakes detected in the folder: 1
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/026
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/026/frame_48.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/026/frame_98.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/026/frame_45.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/017
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/017/frame_213.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/017/frame_274.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/017/frame_165.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/023
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/023/frame_373.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/023/frame_328.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/023/frame_118.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/021
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/021/frame_121.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/021/frame_343.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/021/frame_224.png
+Prediction result: yes
+Number of fakes detected in the folder: 3
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/010
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/010/frame_22.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/010/frame_253.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/010/frame_353.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/006
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/006/frame_297.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/006/frame_118.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/006/frame_10.png
+Prediction result: no
+Number of fakes detected in the folder: 1
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/016
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/016/frame_365.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/016/frame_329.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/016/frame_604.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/042
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/042/frame_312.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/042/frame_309.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/042/frame_55.png
+Prediction result: yes
+Number of fakes detected in the folder: 3
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/005
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/005/frame_132.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/005/frame_59.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/005/frame_62.png
+Prediction result: yes
+Number of fakes detected in the folder: 3
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/028
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/028/frame_0.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/028/frame_306.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/028/frame_391.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/039
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/039/frame_266.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/039/frame_262.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/039/frame_283.png
+Prediction result: yes
+Number of fakes detected in the folder: 3
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/004
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/004/frame_44.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/004/frame_33.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/004/frame_134.png
+Prediction result: yes
+Number of fakes detected in the folder: 3
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/007
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/007/frame_183.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/007/frame_482.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/007/frame_440.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/018
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/018/frame_417.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/018/frame_221.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/018/frame_93.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/047
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/047/frame_150.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/047/frame_213.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/047/frame_197.png
+Prediction result: no
+Number of fakes detected in the folder: 2
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/032
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/032/frame_178.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/032/frame_6.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/032/frame_220.png
+Prediction result: yes
+Number of fakes detected in the folder: 3
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/001
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/001/frame_107.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/001/frame_373.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/001/frame_416.png
+Prediction result: no
+Number of fakes detected in the folder: 1
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/043
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/043/frame_44.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/043/frame_114.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/043/frame_459.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/008
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/008/frame_19.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/008/frame_345.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/008/frame_39.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/030
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/030/frame_239.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/030/frame_53.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/030/frame_201.png
+Prediction result: yes
+Number of fakes detected in the folder: 3
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/019
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/019/frame_1092.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/019/frame_250.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/019/frame_499.png
+Prediction result: no
+Number of fakes detected in the folder: 1
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/020
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/020/frame_38.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/020/frame_233.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/020/frame_130.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/038
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/038/frame_85.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/038/frame_49.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/038/frame_122.png
+Prediction result: yes
+Number of fakes detected in the folder: 2
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/002
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/002/frame_338.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/002/frame_162.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/002/frame_395.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/012
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/012/frame_85.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/012/frame_256.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/012/frame_238.png
+Prediction result: yes
+Number of fakes detected in the folder: 3
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/044
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/044/frame_327.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/044/frame_165.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/044/frame_219.png
+Prediction result: yes
+Number of fakes detected in the folder: 3
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/015
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/015/frame_410.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/015/frame_426.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/015/frame_348.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/045
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/045/frame_85.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/045/frame_298.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/045/frame_322.png
+Prediction result: yes
+Number of fakes detected in the folder: 3
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/027
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/027/frame_77.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/027/frame_68.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/027/frame_108.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/009
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/009/frame_561.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/009/frame_530.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/009/frame_559.png
+Prediction result: yes
+Number of fakes detected in the folder: 3
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/041
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/041/frame_19.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/041/frame_217.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/041/frame_59.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/037
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/037/frame_386.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/037/frame_4.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/037/frame_95.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/000
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/000/frame_21.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/000/frame_215.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/000/frame_75.png
+Prediction result: no
+Number of fakes detected in the folder: 0
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/013
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/013/frame_48.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/013/frame_179.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/013/frame_308.png
+Prediction result: yes
+Number of fakes detected in the folder: 2
+Evaluating folder: /home/paperspace/cog-blip-2/data_for_blip/reals/011
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/011/frame_519.png
+Prediction result: no
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/011/frame_122.png
+Prediction result: yes
+Predicting for image: /home/paperspace/cog-blip-2/data_for_blip/reals/011/frame_485.png
+Prediction result: yes
+Number of fakes detected in the folder: 2
